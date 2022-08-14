@@ -1,33 +1,38 @@
+
 {
   "data": [
     {
-      "id": 1,
-      "name": "daniel",
-      "leastname": "gedamo",
-      "height": 193,
-      "haircolor": "black",
-      "issmoker": false,
-      "hobbies": { "gym": "yes", "restaurants": "yesterday" }
+      "firsName": "avi",
+      "lastName": "haim",
+      "age": 25,
+      "city": "rishon",
+      "nighberhood": "olo 45",
+      "hobies": {
+        "honting": "dogs",
+        "painting": "mountents"
+      }
     },
-
     {
-      "id": 2,
-      "name": "mor",
-      "leastname": "glam",
-      "height": 170,
-      "haircolor": "black",
-      "issmoker": true,
-      "hobbies": { "gym": "no", "restaurants": "today" }
+      "firsName": "moti",
+      "lastName": "moti",
+      "age": 25,
+      "city": "telaviv",
+      "nighberhood": "olo 45",
+      "hobies": {
+        "honting": "dogs",
+        "painting": "mountents"
+      }
     },
-
     {
-      "id": 3,
-      "name": "znavo",
-      "leastname": "ardai",
-      "height": 180,
-      "haircolor": "nun",
-      "issmoker": false,
-      "hobbies": { "gym": "yes", "restaurants": "today" }
+      "firsName": "natan",
+      "lastName": "natab",
+      "age": 25,
+      "city": "askelon",
+      "nighberhood": "olo 45",
+      "hobies": {
+        "honting": "dogs",
+        "painting": "mountents"
+      }
     }
   ]
 }
