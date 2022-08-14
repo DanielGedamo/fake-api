@@ -3,30 +3,30 @@
     {
       "id": 1,
       "name": "daniel",
-      "least name": "gedamo",
+      "leastname": "gedamo",
       "height": 193,
-      "hair color": "black",
-      "is smoker": false,
+      "haircolor": "black",
+      "issmoker": false,
       "hobbies": { "gym": "yes", "restaurants": "yesterday" }
     },
 
     {
       "id": 2,
       "name": "mor",
-      "least name": "glam",
+      "leastname": "glam",
       "height": 170,
-      "hair color": "black",
-      "is smoker": true,
+      "haircolor": "black",
+      "issmoker": true,
       "hobbies": { "gym": "no", "restaurants": "today" }
     },
 
     {
       "id": 3,
       "name": "znavo",
-      "least name": "ardai",
+      "leastname": "ardai",
       "height": 180,
-      "hair color": "nun",
-      "is smoker": false,
+      "haircolor": "nun",
+      "issmoker": false,
       "hobbies": { "gym": "yes", "restaurants": "today" }
     }
   ]
